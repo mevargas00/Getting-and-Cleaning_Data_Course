@@ -19,7 +19,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 To run the analysis, follow these steps:
 
-1. **Download the Data**: If you haven't already, download the data from the following link: [Data for the project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). Extract the contents of the zip file to your working directory.
+1. **Download the Data**: download the data from the following link if you haven't: [Data for the project](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). Extract the contents of the zip file to your working directory.
 
 2. **Run the Script**: Open R or RStudio and run the `run_analysis.R` script. This script will read the data, perform the necessary transformations, and generate the `tidy_data.txt` file with the tidy data set.
 
